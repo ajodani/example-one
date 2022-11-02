@@ -1,2 +1,2 @@
-# pwa-example2
+# example-one
 ## hello ##
